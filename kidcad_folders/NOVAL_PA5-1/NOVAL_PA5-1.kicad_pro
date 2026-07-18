@@ -648,13 +648,13 @@
         "uuid": "e582bbf4-d905-4297-af78-baf63a4895c9"
       }
     ],
-    "used_designators": "U1-2,M1-8,#PWR1-10,J1-2,#FLG1-2",
+    "used_designators": "U1-5,M1-8,#PWR1-18,J1-9,#FLG1-4,H1-5,C1-4,HS1",
     "variants": []
   },
   "sheets": [
     [
       "e582bbf4-d905-4297-af78-baf63a4895c9",
-      "NOVAL_PA4-1"
+      "NOVAL_PA5-1"
     ]
   ],
   "text_variables": {},
