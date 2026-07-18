@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MSG12ANG03") (type "KiCad") (uri "${KIPRJMOD}/MSG12ANG03.pretty") (options "") (descr ""))
+)
